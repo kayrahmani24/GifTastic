@@ -1,4 +1,15 @@
-#countries-form {
-	margin-left: 800px;
+body {
+	background-image: url(http://img.freepik.com/free-vector/worldmap-background-design_1127-2318.jpg?size=338&ext=jpg);
+	 background-size: cover;
+	  background-repeat: no-repeat;
 }
 
+
+
+#countries-form {
+	float: right;
+}}
+
+#countries-view{
+	max-height: 50px;
+}
